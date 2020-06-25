@@ -1,0 +1,17 @@
+$theme-colors: (
+    "primary": #a36d90,
+    "secondary": #B5D99C,
+    "success":#74d330,
+    "danger": #9c0d6a,
+    "warning": #d4af77,
+    "info": #8F754F,
+    "light": #e7afd3,
+    "dark": #294C60,
+);
+
+$body-bg: #F9E9EC;
+
+$font-family-sans-serif: Roboto,sans-serif;
+$headings-font-family: Nunito-sans,sans-serif;
+
+@import "node_modules/bootstrap/scss/bootstrap";
